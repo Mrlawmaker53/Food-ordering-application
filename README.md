@@ -1,16 +1,8 @@
-# food_order_assignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Food ordering application
+    1. Keep the layout and  interface easy and simple to navigate
+    2. Implement login and register flow
+    3. Once login/register hold the state with details of the user
+    4. When users add one product more than 2 times show it as out of stock.
+    5. Implement order details screen where it shows order status. This screen should have a username and email which the user entered during login/register flow.
+# Video demo link:
+ https://we.tl/t-6UDMLPc8sY
