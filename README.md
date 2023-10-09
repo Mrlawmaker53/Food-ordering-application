@@ -1,4 +1,4 @@
-# quizz_assignment
+# food_order_assignment
 
 A new Flutter project.
 
